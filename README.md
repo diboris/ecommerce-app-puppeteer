@@ -52,7 +52,7 @@ List of test cases that were automated:
 
 ### Notes
 
-1. Several bugs were discovered during the testing process. All are described in [Github Issues]()
+1. Several bugs were discovered during the testing process. All are described in [Github Issues](https://github.com/diboris/qa-assessment-tabeo/issues)
 
 ## Automation
 
