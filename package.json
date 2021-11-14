@@ -1,0 +1,13 @@
+{
+  "name": "qa-challenge-tabeo",
+  "private": true,
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "jest-puppeteer": "^6.0.0",
+    "puppeteer": "^10.4.0",
+    "node-fetch": "^2.6.6"
+  }
+}
