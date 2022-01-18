@@ -1,4 +1,4 @@
-# QA Challenge Tabeo
+# E-commerce website using Puppeteer
 
 ## Test cases
 
@@ -74,8 +74,5 @@ HEADLESS=true npm test
 
 ### Notes
 
-1. Although it is not common to test third-party applications, here the stripe checkout part is tested just in case.
-2. Cypress was not chosen because it cannot handle interaction with multiple domains within a single test. Corresponding
-   entry in docs: https://docs.cypress.io/guides/guides/web-security#Limitations
-3. [MailSlurp](https://www.mailslurp.com/) is used to MagicLink SignIn process (replace [API key](jest.config.js) in
+1. [MailSlurp](https://www.mailslurp.com/) is used to MagicLink SignIn process (replace [API key](jest.config.js) in
    case inboxes limitation is reached)
